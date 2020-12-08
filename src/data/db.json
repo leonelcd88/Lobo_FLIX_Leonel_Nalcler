@@ -1,0 +1,137 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Arduino",
+      "cor": "#6BD1FF",
+      "descricao": "IFSULDEMINAS - Campus Machado",
+      "url": "https://info.mch.ifsuldeminas.edu.br/"
+    },
+    {
+      "id": 2,
+      "titulo": "Fundamentos de Computação",
+      "cor": "green",
+      "descricao": "IFSULDEMINAS - Campus Machado",
+      "url": "https://info.mch.ifsuldeminas.edu.br/"
+    },
+    {
+      "id": 3,
+      "titulo": "Front End",
+      "cor": "red",
+      "descricao": "Formação de Front End na Alura",
+      "url": "https://www.alura.com.br/cursos-online-front-end"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que é Arduino",
+      "description": "O que é Arduino",
+      "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Historia do Arduino",
+      "description": "Historia do Arduino",
+      "url": "https://youtu.be/9nucMfF15Ik"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Conceitos de Eletrônica para Arduino",
+      "description": "Conceitos de Eletrônica para Arduino",
+      "url": "https://youtu.be/1_4Psagxtps"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Conceitos básicos de Logica de programação",
+      "url": "https://youtu.be/i7CabAnxA5Q"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Primeira Aula Pratica",
+      "url": "https://youtu.be/KYPX_cxAFN0"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Fundamentos de Computação - Capitulo 1 (1º Parte)",
+      "url": "https://youtu.be/EQ3f7S70gk4"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Fundamentos de Computação - Capitulo 1 (2º Parte)",
+      "url": "https://youtu.be/r-o-BN9t5tw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Fundamentos de Computação Capitulo 2 (1º Parte)",
+      "url": "https://youtu.be/A5d32FgPH3Q"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Fundamentos de Computação Capitulo 2 (2º Parte)",
+      "url": "https://youtu.be/fvBPRiugQv4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Fundamentos de Computação Capitulo 4",
+      "url": "https://youtu.be/hHYqCmJkJKo"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "Template String",
+      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+    },
+    {
+      "titulo": "O que é Arduino, afinal de contas? ",
+      "description": "#ManualMaker ",
+      "url": "https://www.youtube.com/watch?v=sv9dDtYnE1g",
+      "categoriaId": 1,
+      "id": 14
+    },
+    {
+      "titulo": "Use um Arduino sem ter Arduino! ",
+      "description": "Use um Arduino sem ter Arduino! #ManualMaker",
+      "url": "https://www.youtube.com/watch?v=CrHJj4OQ6Sw&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp&t=0s",
+      "categoriaId": 1,
+      "id": 15
+    },
+    {
+      "titulo": "Conheça os sensores do Arduino #ManualMaker ",
+      "description": "Conheça os sensores do Arduino #ManualMaker ",
+      "url": "https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp&index=16",
+      "categoriaId": 1,
+      "id": 16
+    },
+    {
+      "titulo": "Introdução ao Scratch - Curso de Algoritmos",
+      "description": "Introdução ao Scratch",
+      "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo",
+      "categoriaId": 2,
+      "id": 18
+    },
+    {
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "description": "O que faz uma desenvolvedora front-end?",
+      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "categoriaId": 3,
+      "id": 19
+    }
+  ]
+}

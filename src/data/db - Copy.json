@@ -1,0 +1,48 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Arduino",
+      "cor": "#6BD1FF",
+      "descricao": "Maquete com Arduino",
+      "url": "https://www.youtube.com/watch?v=aHMFcdL-MWk"
+    },
+    {
+      "titulo": "Nossos Vídeos",
+      "descricao": "Nossos Vídeos",
+      "url": "https://www.youtube.com/watch?v=aHMFcdL-MWk",
+      "cor": "#6f97d8",
+      "id": 2
+    },
+    {
+      "titulo": "Testes 01",
+      "descricao": "Casa autómata TCC (Faze de testes 01)",
+      "url": "https://www.youtube.com/watch?v=ljn47-O4qTY",
+      "cor": "#47b362",
+      "id": 3
+    },
+    {
+      "titulo": "Testes 02",
+      "descricao": "Casa autómata TCC (Faze de testes 02)",
+      "url": "https://www.youtube.com/watch?v=NdFyLDI77Y4",
+      "cor": "#62c67b",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que é Arduino",
+      "description": "O que é Arduino",
+      "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
+    },
+    {
+      "titulo": "História do Arduino",
+      "description": "História do Arduino",
+      "url": "https://www.youtube.com/watch?v=9nucMfF15Ik",
+      "categoriaId": 1,
+      "id": 2
+    }
+  ]
+}
